@@ -1,0 +1,3 @@
+rootProject.name = "HeadTracker"
+include ':app'
+include ':sdk'
